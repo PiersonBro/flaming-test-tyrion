@@ -1,5 +1,6 @@
 flaming-test-tyrion
 ===================
 
-This is a test repository consisting of .txt files. I'm using it to test out my Git app, [Mnemonic](https://github.com/PiersonBro/mnemonic).
+This was a test repository consisting of .txt files. that I was using to test out my Git app, [Mnemonic](https://github.com/PiersonBro/mnemonic).
 
+Now I have the 2017 win projections for all of MLB, as well as positional rankings provided by Fangraphs.
